@@ -1,0 +1,6 @@
+{
+  "name": "Sphere Workspace Portal",
+  "description": "An elegant multi-screen workspace featuring a responsive project task board, a hotlinked high-fidelity photo gallery, and user profile settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
